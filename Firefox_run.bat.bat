@@ -1,0 +1,1 @@
+"C:\Users\hp\AppData\Local\Programs\Python\Python312\Scripts\pytest.exe" -v -n=4 --html=HTMLReports/myreport_firefox.html --browser firefox --alluredir="Allure-results"

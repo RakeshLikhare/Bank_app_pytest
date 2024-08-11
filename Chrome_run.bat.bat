@@ -1,1 +1,1 @@
-"C:\Users\hp\AppData\Local\Programs\Python\Python312\Scripts\pytest.exe" -v -n=4 --html=HTMLReports/myreports.html --browser chrome --alluredir="Allure-results"
+"C:\Users\hp\AppData\Local\Programs\Python\Python312\Scripts\pytest.exe" -v -n=4 --html=HTMLReports/myreport.html --browser chrome --alluredir="Allure-results"
