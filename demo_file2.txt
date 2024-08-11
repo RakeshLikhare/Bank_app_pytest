@@ -1,3 +1,5 @@
 This is my demo file at git global
 This is my demo edit at local repositary
-File name changes at global repositary
+File name changes at global repository
+
+last time pushing local file at global
