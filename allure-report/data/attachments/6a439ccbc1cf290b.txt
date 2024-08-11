@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:73 testcase test_Login_003 is started
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:75 opening browser
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:77 click on login link 
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:79 Entering username
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:81 Entering username
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:83 click on login button 
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:86 checking the page title 
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:88 testcase test_Login_003 is passed
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:89 taking screenshot
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:91 testcase test_Login_003 is complete
